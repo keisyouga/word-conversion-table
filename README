@@ -1,0 +1,9 @@
+word conversion table files (*.map, *.dic) used by my programs.
+
+map files and dic files are same format that "^<from string><space><to string>$".
+
+map files are no duplication of <from string>.
+
+dic files are allowed to duplication of <from string>.
+
+license of these files are follow the original license, included in *.txt file.
